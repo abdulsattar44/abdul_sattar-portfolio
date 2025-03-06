@@ -1,0 +1,15 @@
+---
+title: "Finance Performance "
+author: "Abdul Sattar"
+date: "2025-02-18"
+categories: [power-bi, analysis]
+image: "image.PNG"
+---
+
+This a Finance Performance Dashboard
+
+::: {style="margin-left: -50px;"}
+<iframe title="Finance KPI Dashboard" width="1024" height="612" src="https://app.powerbi.com/view?r=eyJrIjoiMTNjOGVmZGUtY2Q1Zi00ZDdkLWIxNWEtMDVkNTYxOTM0NGIwIiwidCI6IjVlMDZkNzgzLTZhOGEtNDkxNy04ODUxLTZmOGE0MWNiNjI4YyIsImMiOjl9" frameborder="0" allowFullScreen="true">
+
+</iframe>
+:::

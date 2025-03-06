@@ -1,0 +1,25 @@
+---
+title: "Abdul Sattar"
+image: images/profile.png
+about:
+  template: jolla
+  image-width: 14em
+  image-shape: round
+  links:
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/abdul-sattar-dayo/
+    - icon: github
+      text: Github
+      href: https://github.com/abdulsattar44
+    - icon: "images/coursera.svg"
+      text: Coursera
+      href: https://www.coursera.org/account-profile
+    - icon: envelope
+      text: Contact me
+      href: mailto:abdulsattardayo44@gmail.com
+---
+
+Data enthusiast with a passion for transforming raw data into actionable insights. Proficient in SQL, R, and data visualization tools like Tableau and Power BI, I thrive on uncovering patterns and trends to drive informed decision-making. A collaborative team player with good communication skills, I'm eager to contribute to data-driven initiatives that make a real impact.\
+\
+When I'm not exploring data, you can find me indulging in my hobbies of sketching, playing tennis, and reading books.

@@ -1,0 +1,54 @@
+project:
+  type: website
+
+website:
+  title: "Abdul Sattar"
+  favicon: "images/profile2.png"
+
+  search: 
+    location: navbar
+    type: overlay
+  navbar:
+    left: 
+      - text: Home
+        href: index.qmd
+      - text: Projects
+        href: projects.qmd
+      - text: Resume
+        href: resume.qmd
+      
+    right:
+      - icon: linkedin
+        href: https://www.linkedin.com/in/abdul-sattar-dayo/
+      - icon: github
+        href: https://github.com/abdulsattar44
+      - icon: envelope
+        href: mailto:abdulsattardayo44@gmail.com      
+        
+  page-footer:
+    center: |
+      <span class="container"><strong>[Contact Abdul Sattar](mailto:abdulsattardayo44@gmail.com){target="_blank"}</strong></span>
+    left: |
+      <span class="container"><strong>Made with [Posit Quarto](https://quarto.org/){target="_blank"}</strong></span>
+    right: |
+      <span class="container"><strong>[Github Repo](https://github.com/abdulsattar44){target="_blank"}</strong></span>
+    background: "#004E4F"
+    
+    
+format:
+  html:
+    grid: 
+      body-width: 2000px
+      sidebar-width: 200px
+      margin-width: 200px
+    theme:
+      light: [cosmo, theme_light_custom.scss]
+      dark: [cosmo, theme_dark_custom.scss]
+    css: styles.css
+    citations-hover: true
+    code-link: true
+    code-fold: show
+    code-tools: false
+    code-block-border-left: "#004E4F"
+editor: visual
+

@@ -1,0 +1,13 @@
+---
+title: "Pizza Sales Analysis using SQL"
+author: "Abdul Sattar"
+date: "2025-02-10"
+categories: [SQL, analysis]
+image: "image.PNG"
+---
+
+This is Pizza Sales Analysis Project using SQL
+
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRASN6UyzHs3PK2nb2bR5gayDGoCF38dooIvyaKB099VFztKYnYmjiz_nxKCVNuvw/embed?start=false&amp;loop=true&amp;delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true">
+
+</iframe>

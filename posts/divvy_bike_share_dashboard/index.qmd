@@ -1,0 +1,15 @@
+---
+title: "Divvy Bike Share Analysis Dashboard"
+author: "Abdul Sattar"
+date: "2025-02-23"
+categories: [power-bi, analysis]
+image: "image.PNG"
+---
+
+This a Power BI Dashboard for Divvy Bike Share based in Chicago
+
+::: {style="margin-left: -50px;"}
+<iframe title="Divvy Bike Share Analysis" width="1024" height="612" src="https://app.powerbi.com/view?r=eyJrIjoiZjI4N2ZiMTEtZjMxNC00ZjY4LTkyODQtNmM2ZjI4Nzg0MzU3IiwidCI6IjVlMDZkNzgzLTZhOGEtNDkxNy04ODUxLTZmOGE0MWNiNjI4YyIsImMiOjl9" frameborder="0" allowFullScreen="true">
+
+</iframe>
+:::

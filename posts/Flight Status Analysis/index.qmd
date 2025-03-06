@@ -1,0 +1,18 @@
+---
+title: "Flight Status Analysis Dashboard"
+author: "Abdul Sattar"
+date: "2025-02-27"
+categories: [power-bi, analysis]
+image: "image.PNG"
+---
+
+This a Power BI Dashboard for Flight Status Analysis Dashboard
+
+```         
+```
+
+::: {style="margin-left: -50px;"}
+<iframe title="Flight Status Analysis" width="1024" height="612" src="https://app.powerbi.com/view?r=eyJrIjoiOGZkOTZhMTMtYTRiNC00MTRlLTkyNzEtYmU4YTBiNDgzMzg0IiwidCI6IjVlMDZkNzgzLTZhOGEtNDkxNy04ODUxLTZmOGE0MWNiNjI4YyIsImMiOjl9" frameborder="0" allowFullScreen="true">
+
+</iframe>
+:::
